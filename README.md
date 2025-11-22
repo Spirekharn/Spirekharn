@@ -25,8 +25,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajyo&show_icons=true&theme=tokyonight&hide_border=true" alt="Rajyo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajyo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Spirekharn&show_icons=true&theme=tokyonight&hide_border=true" alt="Spirekharn's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spirekharn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -48,12 +48,16 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/Rajyo/Rajyo/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Spirekharn/Spirekharn/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Spirekharn/Spirekharn/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Spirekharn/Spirekharn/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <!-- 
 NOTE: The snake animation will only appear after the GitHub Action runs successfully.
-Ensure your repository name matches your username (Rajyo/Rajyo) for this specific link to work automatically, 
+Ensure your repository name matches your username (Spirekharn/Spirekharn) for this specific link to work automatically, 
 or update the link to match your repository structure.
 -->
 
