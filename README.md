@@ -55,11 +55,7 @@
   </picture>
 </div>
 
-<!-- 
-NOTE: The snake animation will only appear after the GitHub Action runs successfully.
-Ensure your repository name matches your username (Spirekharn/Spirekharn) for this specific link to work automatically, 
-or update the link to match your repository structure.
--->
+
 
 ---
 
